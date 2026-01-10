@@ -22,7 +22,7 @@ gongan学基础理论：https://www.zaixiankaoshi.com/online/paper/detail/?paper
 gongan行政法：https://www.zaixiankaoshi.com/online/paper/detail/?paperid=26812035  
 makesi主义基本原理：https://www.zaixiankaoshi.com/online/paper/detail/?paperid=27609411  
 数据库原理：https://www.zaixiankaoshi.com/online/paper/detail/?paperid=27625259  
-数据库原理（作业版）：https://www.zaixiankaoshi.com/online/paper/detail/?paperid=28914640
+数据库原理（作业版）：https://www.zaixiankaoshi.com/online/paper/detail/?paperid=28914640   
 刑事诉讼法：https://www.zaixiankaoshi.com/online/paper/detail/?paperid=27632404  
 计算机网络：https://www.zaixiankaoshi.com/online/paper/detail/?paperid=27632756  
 毛概：https://www.zaixiankaoshi.com/online/paper/detail/?paperid=27635068  
